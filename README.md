@@ -1,4 +1,4 @@
-# Hi 👋 I'm Davi
+# Hi 👋 I'm Davi Sudekum
 
 🚀 Developer interested in AI, startups and SaaS.
 
@@ -9,7 +9,3 @@
 - HTML
 - CSS
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact)
-![Python](https://img.shields.io/badge/Python-blue)
-![React](https://img.shields.io/badge/React-black)
