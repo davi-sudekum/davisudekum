@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Davi de Moura Südekum!
 
-### 🚀 Frontend Developer | FRC 1156 Scouting Programmer | IT Student
+### 🚀 Developer | Programmer | IT Student 
 
 <p align="left">
   <img src="https://img.shields.io/badge/English-C1--Advanced-blue?style=flat-square" />
@@ -13,9 +13,11 @@ I am an **IT Student** focused on building modern, high-performance digital expe
 
 ---
 
+**Interests:** Development, Systems Architecture, Startups, AI, and Tech Innovation.
+
 ### 🛠️ Tech Stack
 
-**💻 Frontend & Languages**
+**💻  Languages**
 <br />
 <sub>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
