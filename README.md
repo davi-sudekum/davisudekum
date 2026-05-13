@@ -51,11 +51,3 @@ I am an **IT Student** focused on building modern, high-performance digital expe
 <a href="mailto:davi.demourasud@gmail.com"><img src="https://img.shields.io/badge/Email-davi.demourasud@gmail.com-blue?style=flat-square&logo=gmail" /></a>
 </p>
 
----
-
-## 📊 Performance & Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davi-sudekum&show_icons=true&theme=tokyonight" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-sudekum&layout=compact&theme=tokyonight" />
-</p>
